@@ -3,7 +3,7 @@
 
 ## 前台项目
 [开源代码地址](https://github.com/Xinsen-Zhang/Wenxin-s-Bioinformatics-Web-User-Interface)<br/>
-[线上效果展示](http://http://114.115.184.117/)
+[线上效果展示](http://114.115.184.117/)
 ## 后台项目
 [开源代码地址](https://github.com/Xinsen-Zhang/Wenxin-s-Bioinformatics-Web-Admin-Zone)<br/>
 [线上效果地址](http://23.106.135.251:8080/admin)

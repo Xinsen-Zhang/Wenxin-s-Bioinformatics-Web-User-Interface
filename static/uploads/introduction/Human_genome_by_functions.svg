@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="566.2"
+   width="1331.6"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Human_genome_by_functions.svg">
+  <metadata
+     id="metadata190">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs188" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1245"
+     inkscape:window-height="690"
+     id="namedview186"
+     showgrid="false"
+     inkscape:zoom="0.47161311"
+     inkscape:cx="591.89599"
+     inkscape:cy="360.59307"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text6"
+     x="934.08685"
+     y="48.32341">
+    <tspan
+       id="tspan8"
+       x="934.08685"
+       y="48.32341">extracellular matrix proteins; 72; 0,4%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text10"
+     x="935.96289"
+     y="90.996216">
+    <tspan
+       id="tspan12"
+       x="935.96289"
+       y="90.996216">proteases; 476; 2,8%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text14"
+     x="938.1908"
+     y="131.20282">
+    <tspan
+       id="tspan16"
+       x="938.1908"
+       y="131.20282">cytoskeletal proteins; 441; 2,6%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text18"
+     x="942.11536"
+     y="174.77815">
+    <tspan
+       id="tspan20"
+       x="942.11536"
+       y="174.77815">transporters; 1098; 6,4%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text22"
+     x="950.86975"
+     y="210.64491">
+    <tspan
+       id="tspan24"
+       x="950.86975"
+       y="210.64491">transmembrane receptor regulatory/</tspan>
+    <tspan
+       id="tspan26"
+       x="950.86975"
+       y="239.66957">/adaptor proteins; 84; 0,5%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text28"
+     x="949.41064"
+     y="275.99237">
+    <tspan
+       id="tspan30"
+       x="949.41064"
+       y="275.99237">transferases; 1512; 8,8%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text32"
+     x="949.18195"
+     y="317.31558">
+    <tspan
+       id="tspan34"
+       x="949.18195"
+       y="317.31558">oxidoreductases; 550; 3,2%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text36"
+     x="949.18195"
+     y="353.58112">
+    <tspan
+       id="tspan38"
+       x="949.18195"
+       y="353.58112">lyases; 104; 0,6%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text40"
+     x="947.72296"
+     y="392.00427">
+    <tspan
+       id="tspan42"
+       x="947.72296"
+       y="392.00427">cell adhesion molecules; 93; 0,5%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text44"
+     x="947.72296"
+     y="428.70596">
+    <tspan
+       id="tspan46"
+       x="947.72296"
+       y="428.70596">ligases; 260; 1,5%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text48"
+     x="947.72296"
+     y="468.48901">
+    <tspan
+       id="tspan50"
+       x="947.72296"
+       y="468.48901">nucleic acid binding; 1466; 8,5%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text52"
+     x="949.95508"
+     y="508.29395">
+    <tspan
+       id="tspan54"
+       x="949.95508"
+       y="508.29395">signaling molecules; 961; 5,6%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text56"
+     x="947.68872"
+     y="546.66174">
+    <tspan
+       id="tspan58"
+       x="947.68872"
+       y="546.66174">enzyme modulators; 857; 5,0%</tspan>
+  </text>
+  <text
+     style="font-size:23.14999962px;fill:#000000;font-family:Arial"
+     id="text60"
+     x="548.40857"
+     y="26.88649">
+    <tspan
+       id="tspan62"
+       x="548.40857"
+       y="26.88649">unclassified; 4061; 23,6%</tspan>
+  </text>
+  <text
+     id="text64"
+     x="442.18143"
+     y="39.318588"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan66"
+       x="442.18143"
+       y="39.318588">isomerases; 94; 0,5%</tspan>
+  </text>
+  <text
+     id="text68"
+     x="441.29761"
+     y="78.012833"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan70"
+       x="441.29761"
+       y="78.012833">receptors; 1076; 6,3%</tspan>
+  </text>
+  <text
+     id="text72"
+     x="431.76117"
+     y="117.12189"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan74"
+       x="431.76117"
+       y="117.12189">storage proteins; 15; 0,1%</tspan>
+  </text>
+  <text
+     id="text76"
+     x="426.25674"
+     y="155.35577"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan78"
+       x="426.25674"
+       y="155.35577">structural proteins; 280; 1,6%</tspan>
+  </text>
+  <text
+     id="text80"
+     x="413.75671"
+     y="193.59096"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan82"
+       x="413.75671"
+       y="193.59096">surfactants; 15; 0,1%</tspan>
+  </text>
+  <text
+     id="text84"
+     x="411.75735"
+     y="226.73331"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan86"
+       x="411.75735"
+       y="226.73331">cell junction proteins; 67; 0,4%</tspan>
+  </text>
+  <text
+     id="text88"
+     x="410.35837"
+     y="262.12314"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan90"
+       x="410.35837"
+       y="262.12314">chaperones; 130; 0,8%</tspan>
+  </text>
+  <text
+     id="text92"
+     x="415.03323"
+     y="295.49637"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan94"
+       x="415.03323"
+       y="295.49637">transcription factors; 2067; 12,0%</tspan>
+  </text>
+  <text
+     id="text96"
+     x="385.42072"
+     y="331.23761"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan98"
+       x="385.42072"
+       y="331.23761">phosphatases; 230; 1,3%</tspan>
+  </text>
+  <text
+     id="text100"
+     x="387.80682"
+     y="367.79141"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan102"
+       x="387.80682"
+       y="367.79141">membrane traffic proteins; 321; 1,9%</tspan>
+  </text>
+  <text
+     id="text104"
+     x="394.34879"
+     y="407.65063"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan106"
+       x="394.34879"
+       y="407.65063">transfer/carrier proteins; 248; 1,4%</tspan>
+  </text>
+  <text
+     id="text108"
+     x="402.24826"
+     y="443.87152"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan110"
+       x="402.24826"
+       y="443.87152">hydrolases; 454; 2,6%</tspan>
+  </text>
+  <text
+     id="text112"
+     x="406.81653"
+     y="479.09555"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan114"
+       x="406.81653"
+       y="479.09555">defense/immunity proteins; 107; 0,6%</tspan>
+  </text>
+  <text
+     id="text116"
+     x="419.80786"
+     y="516.37659"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan118"
+       x="419.80786"
+       y="516.37659">calcium-binding proteins; 63; 0,4%</tspan>
+  </text>
+  <text
+     id="text120"
+     x="430.81616"
+     y="551.60059"
+     style="font-size:23.14999962px;text-align:end;text-anchor:end;fill:#000000;font-family:Arial">
+    <tspan
+       id="tspan122"
+       x="430.81616"
+       y="551.60059">viral proteins; 7; 0,0%</tspan>
+  </text>
+  <path
+     d="m 931.6,41.82 -57.584,0 -47.165,65.241 m 104.74,-21.947707 -49.764,0 -43.158,32.820707 m 96.46,6.91459 -45.499,0 -27.051,26.56241 m 76.11,17.07045 -17.773,0 -39.567,29.78255 m 64.45,5.20812 -23.46,0 -31.036,51.12088 m 53.79,14.04974 -25.59,0 -38.28,46.39026 m 64.245,-4.60755 -25.559,0 -76.556,80.71955 m 102.12,-44.30688 -36.223,0 -82.279,64.72188 m 118.5,-24.95535 -70.347,0 -52.715,30.47513 m 123.06,4.34503 -103.05,0 -33.65,3.76697 m 136.7,36.71656 -147.13,0 -48.342,-5.79856 m 195.47,44.81885 -245.23,0 -45.499,-27.76285 m 290.73,66.83 -335.52,0 -24.8,-83.33 m -151.5,86.92 69.67,0 53.497,-100.28 m -134.9,65.49749 54.03,0 78.779,-66.98049 m -146.32,29.0973 74.646,0 65.716,-32.9163 m -145.35,-2.34905 51.186,0 76.424,-12.40695 m -135.43,-25.40391 24.882,0 91.709,6.56191 m -122.27,-45.11043 14.929,0 93.308,26.81243 m -110.38,-62.70744 15.64,0 82.111,45.11234 m -69.37,-81.8815 13.75248,0 26.41452,-47.1785 m -41.037,12.83736 10.557,0 35.803,-53.81336 m -47.37,17.79221 18.63638,0 31.92762,-27.25461 m -46.30086,-2.3436 16.086,0 31.70786,-0.9354 m -35.99,-37.76532 18.45324,0 22.41276,26.07832 m -32.56914,-64.60647 15.80276,0 20.43938,55.64947 m -26.57876,-96.468567 17.36596,0 37.3518,58.277567 m -57.08,-97.39 18.097,0 65.005,63.817"
+     id="path124"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1.5"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <g
+     stroke-linejoin="round"
+     transform="matrix(.70769 0 0 .70769 410.64 36.48)"
+     stroke="#000"
+     stroke-linecap="round"
+     stroke-miterlimit="10"
+     stroke-width=".5"
+     id="g126">
+    <path
+       d="m588.05 94.126c1.9169 1.9169 3.809 3.8587 5.6762 5.8254l-224.42 212.92z"
+       fill="#9c9cff"
+       id="path128" />
+    <path
+       d="m593.73 99.951c12.341 13.01 23.528 27.069 33.436 42.015l-257.86 170.9z"
+       fill="#9c3061"
+       id="path130" />
+    <path
+       d="m627.17 141.97c9.1786 13.847 17.225 28.411 24.064 43.548l-281.92 127.35z"
+       fill="#ffc"
+       id="path132" />
+    <path
+       d="m651.23 185.51c17.076 37.803 26.378 78.649 27.348 120.12l-309.27 7.2396z"
+       fill="#cff"
+       id="path134" />
+    <path
+       d="m678.58 305.63c0.0718 3.1599 0.0967 6.3225 0.0773 9.4852l-309.35-2.2456z"
+       fill="#610061"
+       id="path136" />
+    <path
+       d="m678.66 315.12c-0.41708 57.289-16.733 113.34-47.13 161.9l-262.22-164.15z"
+       fill="#ff7f7f"
+       id="path138" />
+    <path
+       d="m631.53 477.01c-10.996 17.564-23.73 33.983-38.01 49.003l-224.21-213.14z"
+       fill="#0061cc"
+       id="path140" />
+    <path
+       d="m593.52 526.02c-2.6986 2.8367-5.4469 5.6237-8.2533 8.3582l-215.96-221.51z"
+       fill="#ccf"
+       id="path142" />
+    <path
+       d="m585.26 534.37c-2.508 2.4417-5.0547 4.8448-7.6428 7.2009l-208.31-228.7z"
+       fill="#00007f"
+       id="path144" />
+    <path
+       d="m577.62 541.58c-7.2396 6.5932-14.786 12.841-22.616 18.716l-185.69-247.43z"
+       fill="#f0f"
+       id="path146" />
+    <path
+       d="m555 560.29c-44.41 33.328-96.97 54.091-152.17 60.107l-33.52-307.53z"
+       fill="#ff0"
+       id="path148" />
+    <path
+       d="m402.83 620.4c-36.062 3.9333-72.531 1.4888-107.75-7.2147l74.221-300.31z"
+       fill="#0ff"
+       id="path150" />
+    <path
+       d="m295.09 613.18c-31.39-7.75-61.36-20.38-88.84-37.42l163.06-262.89z"
+       fill="#7f007f"
+       id="path152" />
+    <path
+       d="m206.25 575.76c-0.22097-0.1381-0.4447-0.27898-0.66844-0.41984l163.73-262.47z"
+       fill="#7f0000"
+       id="path154" />
+    <path
+       d="m205.58 575.34c-2.0136-1.2512-4.0106-2.5301-5.9938-3.8338l169.72-258.64z"
+       fill="#007f7f"
+       id="path156" />
+    <path
+       d="m199.59 571.5c-3.3698-2.2097-6.6926-4.483-9.9741-6.8252l179.69-251.8z"
+       fill="#00f"
+       id="path158" />
+    <path
+       d="m189.61 564.68c-13.918-9.9354-26.992-21.009-39.084-33.101l218.78-218.71z"
+       fill="#0cf"
+       id="path160" />
+    <path
+       d="m150.53 531.58c-6.6014-6.6071-12.902-13.504-18.879-20.68l237.66-198.03z"
+       fill="#cff"
+       id="path162" />
+    <path
+       d="m131.65 510.9c-7.7395-9.2863-14.927-19.02-21.525-29.149l259.19-168.88z"
+       fill="#cfc"
+       id="path164" />
+    <path
+       d="m110.12 481.75c-4.726-7.2561-9.1482-14.706-13.253-22.335l272.44-146.55z"
+       fill="#ffff9c"
+       id="path166" />
+    <path
+       d="m96.87 459.41c-37.306-69.36-46.755-150.34-26.415-226.42l298.85 79.884z"
+       fill="#9cccff"
+       id="path168" />
+    <path
+       d="m70.455 232.99c1.2623-4.726 2.6378-9.4272 4.1239-14.09l294.73 93.973z"
+       fill="#ff9ccc"
+       id="path170" />
+    <path
+       d="m74.579 218.9c0.76788-2.4031 1.5634-4.7951 2.3865-7.1816l292.34 101.15z"
+       fill="#cc9cff"
+       id="path172" />
+    <path
+       d="m76.966 211.72c0.18507-0.53309 0.37013-1.0662 0.56072-1.5993l291.78 102.75z"
+       fill="#ffcc9c"
+       id="path174" />
+    <path
+       d="m77.526 210.12c3.5024-9.9437 7.5075-19.705 12.01-29.24l279.77 131.99z"
+       fill="#3061ff"
+       id="path176" />
+    <path
+       d="m89.536 180.88c0.24031-0.51099 0.48061-1.022 0.72644-1.533l279.05 133.52z"
+       fill="#30cccc"
+       id="path178" />
+    <path
+       d="m90.263 179.34c17.537-36.65 42.137-69.5 72.377-96.652l206.67 230.18z"
+       fill="#9ccc00"
+       id="path180" />
+    <path
+       d="m162.64 82.688c2.6323-2.3616 5.3061-4.6818 8.0212-6.9551l198.65 237.14z"
+       fill="#fc0"
+       id="path182" />
+    <path
+       d="m170.66 75.733c122.88-102.94 304.04-94.957 417.39 18.393l-218.74 218.74z"
+       fill="#ff9c00"
+       id="path184" />
+  </g>
+</svg>

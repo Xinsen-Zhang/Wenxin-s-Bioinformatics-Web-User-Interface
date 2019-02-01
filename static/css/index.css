@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.light-bg{
+    background-color: #749fc0 !important;
+}
+
+.dark-bg{
+    background-color: #235383 !important;
+}
+
+.no-margin {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.no-padding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.rounded-left-bottom {
+    border-bottom-left-radius: 1rem;
+}
+
+.w-20 {
+    width: 20% !important;
+}
+
+.pr-4{
+    padding-right: 1rem !important;
+}
+
+.opacity-0 {
+    opacity: 0 !important;
+    z-index: 0 !important;
+}
+
+.opacity-1 {
+    opacity: 1 !important;
+    z-index: 100000 !important;
+}
+
+.rotate-0 {
+    transform: rotate(0deg) !important;
+}
+
+.rotate-90 {
+    transform: rotate(90deg) !important;
+}
+
+.overflow-visible {
+    overflow: visible !important;
+}
